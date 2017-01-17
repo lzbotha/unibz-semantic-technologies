@@ -2,7 +2,6 @@ Classes:
 Playable Class
     IRI
         https://worldofwarcraft.com/en-us/game/classes
-    Specializations 
 
 Death Knight
     IRI
@@ -364,7 +363,7 @@ Demon Hunter
         Fist Weapons
         One-Handed Axes
         One-Handed Swords
-        
+
 
 Races:
 PlayableRace
@@ -983,49 +982,113 @@ Goblin
 Pandaren
     see other entry
 
-Games
-    Description
-    (ordered list)
-
 World of Warcraft
-    23 November 2004
+    IRI
+        http://wowwiki.wikia.com/wiki/World_of_Warcraft
+    ReleaseDate
+        23 November 2004
 
 The Burning Crusade
-    16 January 2007
+    IRI
+        http://wowwiki.wikia.com/wiki/World_of_Warcraft:_The_Burning_Crusade
+
+    ReleaseDate
+        16 January 2007
+
+    Expands
+        ...
 
 Wrath of the Lich King
-    13 November 2008
+    IRI
+        http://wowwiki.wikia.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King
+
+    ReleaseDate
+        13 November 2008
+
+    Expands
+        ...
 
 Cataclysm
-    7 December 2010
+    IRI
+        http://wowwiki.wikia.com/wiki/World_of_Warcraft:_Cataclysm
+    ReleaseDate
+        7 December 2010
+
+    Expands
+        ...
 
 Mists of Pandaria
-    25 September 2012
+    IRI
+        http://wowwiki.wikia.com/wiki/World_of_Warcraft:_Mists_of_Pandaria
+
+    Release Date
+        25 September 2012
+
+    Expands
+        ...
 
 Warlords of Draenor
-    13 November 2014
+    IRI
+        http://wowwiki.wikia.com/wiki/World_of_Warcraft:_Warlords_of_Draenor
+
+    ReleaseDate
+        13 November 2014
+
+    Expands
+        ...
 
 Legion
-    30 August 2016
+    IRI
+        http://wowwiki.wikia.com/wiki/World_of_Warcraft:_Legion
 
-AbilityType:
-    Description
-Active
-Passive
+    ReleaseDate
+        30 August 2016
 
-Factions
-    Description
-    Races (relationships)
-    Leadership (per expansion)
+    Expands
+        ...
+
+PlayableFaction
+    
 Alliance
+    Leader
+        Anduin Wrynn
+            Title
+                High King
+    Races
+        Human
+        Dwarf
+        Night Elf
+        Gnome
+        Draenei
+        Worgen
+        Pandaren
+
 Horde
+    Leader
+        Sylvanas Windrunner
+            Title
+                Warchief
+    Races
+        Orc
+        Forsaken
+        Tauren
+        Troll
+        Blood Elf
+        Goblin
+        Pandaren
 
 Continents
-    ...
+    Eastern Kingdoms
+    Kalimdor
+    Outland
+    Northrend
+    Pandaria
+    Draenor
+    Broken Isles
 Zones
-    (add starting zones)
     contained in Continents
+    (add starting zones)
 
 Cities
+    contained in Zones
     (add Home cities)
-    contained in Zones (might actually be zones)
