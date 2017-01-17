@@ -982,6 +982,29 @@ Goblin
 Pandaren
     see other entry
 
+CombatRoles
+    Tank
+        IRI
+            http://wowwiki.wikia.com/wiki/Tank_(game_term)
+
+        Description
+            A tank is a character whose primary role is to absorb damage and prevent others from being attacked.
+
+    Healer
+        IRI
+            http://wowwiki.wikia.com/wiki/Healer_class
+
+        Description
+            A healer is a character whose primary combat purpose is to heal friendly creatures or give them defensive buffs. 
+
+    DamageDealer
+        IRI
+            http://wowwiki.wikia.com/wiki/Damage_dealer
+
+        Description
+            Damage dealers, as the name implies, are players who are responsible for dealing damage in the group.
+
+
 World of Warcraft
     IRI
         http://wowwiki.wikia.com/wiki/World_of_Warcraft
