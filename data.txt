@@ -1,0 +1,680 @@
+Classes:
+    Description
+    Specializations 
+
+Death Knight
+Druid 
+Hunter
+Mage
+Monk
+Paladin
+Priest
+Rogue
+Shaman
+Warlock
+Warrior
+Demon Hunter
+
+Races:
+PlayableRace
+    IRI
+        https://worldofwarcraft.com/en-us/game/races
+
+Human
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/human
+
+    Game
+        World of Warcraft
+
+    Faction
+        Alliance
+
+    Description
+        Though humans are among the younger races on Azeroth, they have faced many challenges with fortitude and resilience.
+
+    Traits
+        Every Man for Himself
+            Humans can shake off debilitating stun effects.
+        Diplomacy
+            The straightforward and outspoken humans tend to get along well with other races and gain their trust with relative ease.
+        The Human Spirit
+            Humans are very adaptable, and get additional bonuses to all secondary stats from all sources.
+    
+    Starting Zone
+        Elwynn Forest
+
+    Home City
+        Stormwind City
+
+    Racial Leader
+        Varian Wrynn
+
+    Racial Mount 
+        Horse
+
+    Available Classes
+        Death Knight
+        Hunter
+        Rogue
+        Monk
+        Mage
+        Warlock
+        Priest
+        Paladin
+        Warrior
+
+Dwarf
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/dwarf
+
+    Game
+        World of Warcraft
+
+    Faction
+        Alliance
+
+    Description
+        The bold and courageous dwarves are an ancient race descended from the earthen-beings of living stone created by the titats when the world was young.
+
+    Traits
+        Explorer
+            Dwarves receive a skill bonus to archaeology and are able to survey faster than other races.
+        Frost Resistance
+            Ironforge dwarves have a natural resistance to Frost magic.
+        Might of the Mountain
+            Dwarves battle with powerful intent and gain a bonus to critical strikes.
+        Stoneform
+            Dwarves can temporarily turn to living stone, neutralizing ailments and reducing damage taken.
+
+    Starting Zone
+        Dun Morogh
+
+    Home City
+        Ironforge
+
+    Racial Leader
+        Council of Three Hammers
+
+    Racial Mount
+        Ram
+
+    Available Classes
+        Death Knight
+        Rogue
+        Hunter
+        Monk
+        Mage
+        Warlock
+        Priest
+        Paladin
+        Shaman
+        Warrior
+
+Night Elf
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/night-elf
+
+    Game
+        World of Warcraft
+
+    Faction
+        Alliance
+
+    Description
+        The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history.
+
+    Traits    
+        Shadowmeld
+            Night Elves can slip into the shadows, awaiting for the right moment to strike.
+        Wisp Spirit
+            Fallen night elves assume the form of fleet wisp spirits.
+        Nature Resistance
+            Night elves can resist Nature magic.
+        Quickness
+            The nimble night elves have a slight chance to completely avoid being hit by physical attacks.
+        Touch of Elune
+            Night elves gain a unique benefit that changes between day and night time.
+
+        Starting Zone
+            Teldrassil
+
+        Home City
+            Darnassus
+        Racial Leader
+            Tyrande Whisperwind
+            Malfurion Stormrage
+        Racial Mount
+            Nightsaber
+
+        Available Classes
+            Demon Hunter
+            Death Knight
+            Druid
+            Rogue
+            Hunter
+            Monk
+            Mage
+            Priest
+            Warrior
+
+Gnome
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/gnome
+
+    Game
+        World of Warcraft
+
+    Faction
+        Alliance
+
+    Description
+        The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth.
+
+    Traits
+        Escape Artist
+            Gnomes are small and nimble, which allows them to extricate themselves from even the most cunning traps.
+        Arcane Resistance
+            Gnomes have a natural resistance to Arcane magic.
+        Expansive Mind
+            Curious, creative, and brilliant, gnomes receive a small bonus to their resource pool.
+        Engineering Specialization
+            Their expertise with gizmos, gadgets, and gimmicks provides gnomes with a skill bonus to engineering.
+        Nimble Fingers
+            Gnomes, while diminutive in stature, are dangerously quick.
+
+    Starting Zone
+        Gnomeregan
+
+    Home City
+        Gnomeregan
+
+    Racial Leader
+        Gelbin Mekkatorque
+
+    Racial Mount
+        Mechanostrider
+
+    Available Classes
+        Death Knight
+        Hunter
+        Monk
+        Priest
+        Warlock
+        Warrior
+        Mage
+        Rogue
+
+Draenei
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/draenei
+
+    Game
+        The Burning Crusade
+
+    Faction
+        Alliance
+
+    Descriptions
+        Armed with their unshakable faith in the Light, the draenei ventured to their embattled former home as steadfast members of the Alliance and defeated their ancient demonic rivals.
+
+    Traits
+        Gift of the Naaru
+            The draenei are blessed with a healing ability that can restore their health and that of their allies.
+        Heroic Presence
+            Confident and strong, draenei receive a slight bonus to their main stat.
+        Shadow Resistance
+            Draenei have a natural resistance to Shadow magic.
+        Gemcutting
+            The talented draenei receive a bonus to their jewelcrafting skill
+
+    Starting Zone
+        Azuremyst Isle
+
+    Home City
+        The Exodar
+
+    Racial Leader
+        Prophet Velen
+
+    Racial Mount
+        Elekk
+
+    Available Classes
+        Death Knight
+        Hunter
+        Monk
+        Mage
+        Priest
+        Paladin
+        Shaman
+        Warrior
+
+Worgen
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/worgen
+
+    Game
+        Cataclysm
+
+    Faction
+        Alliance
+
+    Description
+        Behind the formidable Greymane Wall, a terrible curse transformed some of the stalwart citizens of the isolated kingdoms of Gilneas into nightmarish lupine beasts known as worgen.
+
+    Traits
+        Running Wild
+            Drop to all fours to run as fast as a wild animal. Who needs a mount when you can run?
+        Aberration
+            Worgen have a natural resistance to Shadow and Nature damage.
+        Darkflight
+            Activate your true form, drastically increasing movement speed for a short time.
+        Flayer
+            Worgen claws are extremely sharp and can skin a slain beast rapidly.
+        Viciousness
+            Worgen fight with the ferocity of an apex predator and gain a bonus to critical strikes.
+        Two Forms
+            Worgen can shift in and out of Human form while not in combat.
+
+    Starting Zone
+        Gilneas
+
+    Home City
+        Gilneas City
+
+    Racial Leader
+        Genn Greymane
+
+    Racial Mount
+        Running Wild (note this appears in traits)
+
+    Available Classes
+        Death Knight
+        Druid
+        Rogue
+        Hunter
+        Mage
+        Priest
+        Warlock
+        Warrior
+
+Pandaren
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/pandaren
+
+    Game
+        Mists of Pandaria
+
+    Faction 
+        Alliance
+        Horde
+
+    Description
+        The wise pandaren embrace harmony, and lead full lives of food, family and fights on Pandaria.
+
+    Traits
+        Faction Neutral
+            Pandaren may choose to align with either the Alliance or the Horde.
+        Epicurean
+            Your love of food allows you to receive additional stats from eating specialized food.
+        Gourmand
+            Pandaren are excellent cooks, and receive a slight increase to their cooking skill.
+        Inner Peace
+            Your rested experience bonus lasts twice as long.
+        Bouncy
+            Pandaren take less falling damage than other races.
+        Quaking Palm
+            Strikes the target with lightning speed, incapacitating them for a short duration.
+    
+    Starting Zone
+        The Wandering Isle
+
+    Home Continent
+        Pandaria
+
+    Racial Leader
+        Aysa Cloudsinger (alliance)
+        Ji Firepaw (Horde)
+
+    Racial Mount
+        Dragon Turtle
+
+    Available Classes
+        Monk
+        Rogue
+        Hunter
+        Mage
+        Priest
+        Shaman
+        Warrior
+
+Orc
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/orc
+
+    Game
+        World of Warcraft
+
+    Faction
+        Horde
+
+    Description
+        Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor.
+
+    Traits
+        Blood Fury
+            Orcs can fly into a rage that increases their attack power for a short time.
+        Hardiness
+            Rugged by nature, orcs recover from stun effects more quickly than other races.
+        Command
+            Orcs work well with combat pets, which receive a bonus to damage output under their care.
+
+    Starting Zone
+        Durotar
+
+    Home City
+        Orgrimmar
+
+    Racial Leader
+        Thrall
+
+    Racial Mount
+        Wolf
+
+    Available Classes
+        Death Knight
+        Monk
+        Hunter
+        Mage
+        Rogue
+        Warlock
+        Shaman
+        Warrior
+
+
+Forsaken
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/undead
+
+    Game
+        World of Warcraft
+
+    Faction
+        Horde
+
+    Description
+        When the Lich King's grasp on his vast armies faltered after the Third War, a contigent of undead broke free of their master's iron will.
+
+    Traits
+        Will of the Forsaken
+            The Forsaken can shake off any charm, fear and sleep effects at will.
+        Shadow Resistance
+            The Forsaken have a natural resistance to Shadow magic.
+        Cannibalize
+            One rather grisly means for the Forsaken to replenish their health is by consuming dead bodies.
+        Touch of the Grave
+            The Forsaken can sometimes drain the life from their enemies and use it to repair their own bodies.
+
+    Starting Zone
+        Trisfal Glades
+
+    Home City
+        The Undercity
+
+    Racial Leader
+        Sylvanas Windrunner
+
+    Racial Mount
+        Skeletal Horse
+
+    Available Classes
+        Death Knight
+        Hunter
+        Mage
+        Monk
+        Priest
+        Rogue
+        Warlock
+        Warrior
+
+Tauren
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/tauren
+
+    Game
+        World of Warcraft
+
+    Faction
+        Horde
+
+    Description
+        The peaceful tauren - known in their own tongue as the shu'halo - have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother.
+
+    Traits
+        Brawn
+            Tauren are large, able-bodied warriors and gain a bonus to critical strikes.
+        Cultivation
+            Tauren receive a skill bonus to herbalism, and they gather herbs faster than most herbalists.
+        Endurance
+            Their exceptional constitution grants the tauren a bonus to their base health.
+        Nature Resistance
+            Tauren are resistant to Nature magic.
+        War Stomp
+            Shaking the ground with a mighty stomp of their hooves, tauren can briefly stun enemies.
+
+    Starting Zone
+        Mulgore
+
+    Home City
+        Thunder Bluff
+
+    Racial Leader
+        Baine Bloodhoof
+
+    Racial Mount 
+        Kodo
+
+    Available Classes
+        Death Knight
+        Hunter
+        Druid
+        Monk
+        Priest
+        Paladin
+        Shaman
+        Warrior
+
+Troll
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/troll
+
+    Game
+        World of Warcraft
+
+    Faction
+        Horde
+
+    Description
+        The savage trolls of Azeroth are infamous for thier cruelty, dark mysticism, and seething hatred of all other races.
+
+    Traits
+        Berserking
+            Trolls can launch themselves into a frenzy, increasing their attack and casting speed.
+        Da Voodoo Shuffle
+            Thanks to their impressive legerity, trolls are less affected by movement impairing effects.
+        Regeneration
+            Trolls have a natural healing factor that constantly replenishes their health.
+        Beast Slaying
+            Trolls hunt with a keen awareness and gain additional experience from killing beasts.
+
+    Starting Zone
+        Echo Isles
+
+    Home City
+        Darkspear Isle
+
+    Racial Leader
+        Vol'jin
+
+    Racial Mount
+        Raptor
+
+    Available Classes
+        Death Knight
+        Monk
+        Hunter
+        Druid
+        Mage
+        Priest
+        Rogue
+        Warlock
+        Shaman
+        Warrior
+
+Blood Elf
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/blood-elf
+
+    Game
+        The Burning Crusade
+
+    Faction
+        Horde
+
+    Description
+        During the Third War, the glorious high elves of Quel'Thalas were nearly scoured from Azeroth. Now they struggle to rebuild their once-great society and overcome their dependence on arcane magic.
+
+    Traits
+        Arcane Acuity
+            Blood elves possess a preternatural talent for precision and gain a bonus to critical strikes.
+        Arcane Torrent
+            Blood elves can disrupt magic, briefly silencing all enemy casters around them and restoring some of their own resources.
+        Arcane Affinity
+            Blood elves are skilled in the mystical arts and receive a skill bonus to enchanting.
+        Magic Resistance
+            Blood elves have a natural resistance to arcane magic spells.
+
+        Starting Zone
+            Eversong Woods
+
+        Home City
+            Silvermoon City
+
+        Racial Leader
+            Lor'themar Theron
+
+        Racial Mount
+            Hawkstrider
+
+        Available Classes
+            Demon Hunter
+            Death Knight
+            Hunter
+            Mage
+            Monk
+            Paladin
+            Priest
+            Rogue
+            Warlock
+            Warrior
+
+Goblin
+    IRI
+        https://worldofwarcraft.com/en-us/game/races/goblin
+
+    Game
+        Cataclysm
+
+    Faction
+        Horde
+
+    Description
+        Reforging old pacts with their collegues' one-time allies, the goblins of the Bilgewater Cartel have been welcomed into the Horde with open arms.
+
+    Traits
+        Rocket Jump
+            Goblins can use their (relatively) trusty rocket belts to launch themselves over short distances.
+        Rocket Barrage
+            The rocket belt can also launch rockets at an enemy, causing fire damage to the target.
+        Pack Hobgoblin
+            Goblins can access their bank vault from anywhere with the help of a trusted friend.
+        Best Deals Anywhere
+            Wheeling and dealing is second nature to goblins, and they get discounts from vendors.
+        Time is Money
+            Goblins cash in on a bonus to haste.
+        Better Living Through Chemistry
+            Goblins have a natural affinity for hazardous materials and receive a bonus to Alchemy.
+
+    Starting Zone
+        Kezan
+
+    Home City
+        Bilgewater Harbor
+
+    Racial Leader
+        Gallywix
+
+    Racial Mount
+        Trike
+        
+
+    Available Classes
+        Death Knight
+        Hunter
+        Mage
+        Priest
+        Rogue
+        Warlcok
+        Shaman
+        Warrior
+
+Pandaren
+    see other entry
+
+Games
+    Description
+    (ordered list)
+
+World of Warcraft
+    23 November 2004
+
+The Burning Crusade
+    16 January 2007
+
+Wrath of the Lich King
+    13 November 2008
+
+Cataclysm
+    7 December 2010
+
+Mists of Pandaria
+    25 September 2012
+
+Warlords of Draenor
+    13 November 2014
+
+Legion
+    30 August 2016
+
+AbilityType:
+    Description
+Active
+Passive
+
+Factions
+    Description
+    Races (relationships)
+    Leadership (per expansion)
+Alliance
+Horde
+
+Continents
+    ...
+Zones
+    (add starting zones)
+    contained in Continents
+
+Cities
+    (add Home cities)
+    contained in Zones (might actually be zones)
