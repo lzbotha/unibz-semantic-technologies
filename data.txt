@@ -1,19 +1,370 @@
 Classes:
-    Description
+Playable Class
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes
     Specializations 
 
 Death Knight
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/death-knight
+
+    Description
+        When the Lich King's control of his death knights was broken, his former champions sought revenge for the horrors committed under his command.
+
+    Features
+        Tank
+            To protect themselves and their fellows from death in battle, death knights gird themselves in heavy armor and parry attacks with their blades.
+        Melee Damage
+            Death knight runeblades are empowered with dark magic; they can expend the power of their runes for vicious attacks.
+        Runeforging
+            Death knights have a personal connection with their blades, and can forge runes into them in order to increase their power.
+
+    Combat Roles
+        Tank
+        Damage
+
+    Armor Type
+        Plate
+
+    Available Weapons
+        Axes, Maces, Swords, Polearms
+
 Druid 
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/druid
+
+    Description
+        Druids harness the vast powers of nature to preserve balance and protect life. As master shapeshifters, duids can take on the forms of a variety of beasts, each focused on a specific combat role.
+
+    Features
+        Tank
+          When shapeshifted into their bear form, druids possess a thick skin and imposing presence that makes them ideal front-line protectors of weaker party members.
+        Healing
+            By calling upon the powers of nature, druids are able to swiftly restore health to their injured allies.
+        Melee and Ranged Damage
+            Druids can take on the form of a savage cat in order to claw and bite their enemies up close, or that of a wild moonkin to blast enemies from afar.
+        Shapeshifting
+            Druids’ changing forms let them assume different roles and focus on either tanking, healing, or damage. They can also shapeshift to travel faster on land, sea, and air.
+
+    Combat Roles
+        Tank
+        Healer
+        Damage
+
+    Armor Type
+        Leather
+
+    Available Weapons
+        Daggers
+        Fist Weapons
+        Maces
+        Polearms
+        Staves
+
 Hunter
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/hunter
+
+    Description
+        From an early age, the call of the wild draws some adventureres from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters.
+
+    Features
+        Melee Damage
+            Hunters are rugged trackers who can use venom, explosives and traps to damage enemies up close.
+        Ranged Damage
+            Whether wielding bows, guns, or crossbows, hunters are deadly with ranged weapons. They are capable of dishing out consistently high damage.
+        Pets
+            Hunters tame the beasts of the wild, and those beasts serve in return by assaulting their enemies and shielding them from harm.
+        Solo play
+            Thanks to their pets and damage output, hunters are effective at completing quests and leveling quickly, even when they’re alone.
+
+    Combat Roles
+        Damage
+
+    Armor Type
+        Mail
+
+    Available Weapons
+        Bows
+        Crossbows
+        Guns
+        Polearms
+
 Mage
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/mage
+
+    Description
+        Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners.
+
+    Features
+        Ranged Damage
+            Mages can expend mana in order to deal high amounts of damage with amazing speed, though they must be wary of exhausting themselves.
+        Area of Effect Spells
+            By calling upon sheets of ice, columns of flame, and waves of arcane power, mages can effectively attack multiple foes at the same time.
+        Control
+            A mage has many options for controlling the battlefield, from freezing enemies in place to transforming them into helpless critters.
+        Teleportation
+            Mages possess the ability to transport themselves and their allies between cities and can summon replenishing food and water.
+
+    Combat Roles
+        Damage
+
+    Armor Type
+        Cloth
+
+    Available Weapons
+        Wands
+        Daggers
+        One-Handed Swords
+        Staves
+
 Monk
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/monk
+
+    Description
+        Bare-knuckle brawlers whose no-weapon styles were born in ancient Pandaria, monks are as diverse as the energy that surrounds them. They can shoulder deadly attacks through the haze of their brews, heak broken chi flows, and beat thier enemies with wind-quick fists and feet.
+
+    Features
+        Tank
+            Stalwart monks defend their allies by distracting enemies with their dizzying brews and uncanny elusiveness.
+        Healing
+            Monks can channel mystical powers to heal and restore injured allies.
+        Melee Damage
+            Monks are true zen masters, and strike with precision and grace to inflict maximum damage to their enemies.
+
+    Combat Roles
+        Tank
+        Healer
+        Damage
+
+    Armor Type
+        Leather
+
+    Available Weapons
+        Fist Weapons
+        One-Handed Axes
+        One-Handed Maces
+        One-Handed Swords
+        Polearms
+        Staves
+
 Paladin
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/paladin
+
+    Description
+        This is the call of the paladin: to protect the weak, to bring jsutice to the unjust, and to vanquish evil from the darkest corners of the world.
+
+    Features
+        Tank
+            Stalwart paladins are trained to use the heaviest armor and shields, and can utilize their skill to ensure that enemies focus on them, defending weaker members of their group.
+        Healing
+            Paladins’ potent healing abilities can ensure that they and their allies remain in fighting shape.
+        Melee Damage
+            Paladins charge their weapons with holy might, allowing them to deal additional damage with their strikes.
+        Blessings and Auras
+            As champions of order, paladins are extremely potent in a group – their blessings and auras can improve damage and survivability for both themselves and their party.
+
+    Combat Roles
+        Tank
+        Healer
+        Damage
+
+    Armor Type
+        Plate
+        Shields
+
+    Available Weapons
+        Axes
+        Maces
+        Swords
+        Polearms
+
 Priest
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/priest
+
+    Description
+        Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands.
+
+    Features
+        Healing
+            Priests utilize their holy powers to restore their health and that of their comrades.
+        Ranged Damage
+            Priestly Shadow magic can deliver great amounts of immediate damage, or wracking pains that punish foes over longer periods of time.
+        Power Words
+            By calling on mystic shielding and holy empowerment, priests can prevent incoming damage and improve their defenses and those of their allies.
+        Mind Control
+            Priests’ connection with the minds and spirits of living beings allows them to control and manipulate others.
+
+    Combat Roles
+        Healer
+        Damage
+
+    Armor Type
+        Cloth
+
+    Available Weapons
+        Daggers
+        One-Handed Maces
+        Staves
+        Wands
+
 Rogue
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/rogue
+
+    Description
+        For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics.
+
+    Features
+        Melee Damage
+            By skillfully wielding dual-wielded weapons, rogues can deliver catastrophic damage to their targets.
+        Stealth
+            Rogues sneak about the battlefield, hiding from enemies and delivering surprise attacks to the unwary when opportunity arises.
+        Evasion
+            When endangered, rogues have many tools at their disposal to avoid their enemies’ gaze and, if necessary, their attacks.
+        Combos
+            By planning and combining successive melee attacks, rogues can build up combo points that allow them to deliver devastating finishing blows in combat.
+
+    Combat Roles
+        Damage
+
+    Armor Type
+        Leather
+
+    Available Weapons
+        Daggers
+        Fist Weapons
+        One-Handed Axes
+        One-Handed Maces
+        One-Handed Swords
+
 Shaman
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/shaman
+
+    Description
+        Shaman are the spiritual leaders of their tribes and clans. They are masters of the elements, using spells and totems that heal or enhance their allies in battle while unleashing the fury of the elements upon their foes.
+
+    Features
+        Healing
+            By calling on their spiritual power, shaman can restore health to injured allies.
+        Melee Damage
+            Shaman enhance their weapons with elemental effects, empowering their blows with the power of fire, wind, or ice.
+        Ranged Damage
+            The elemental force of the shaman can be used to damage enemies from afar with lightning strikes, earthquakes, and lava bursts.
+        Totems
+            Shaman can choose to deploy a wide array of different totems, each with unique effects from improved restoration to greater damage, enhanced crowd control, and more.
+
+    Combat Roles
+        Healer
+        Damage
+
+    Armor Type
+        Mail
+        Shields
+
+    Available Weapons
+        Daggers
+        Fist Weapons
+        Axes
+        Maces
+        Staves
 Warlock
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/warlock
+
+    Description
+        In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it int the dark arts. These voracious spellcasters summon demonic minions to fight beside them.
+
+    Features
+        Ranged Damage
+            Warlocks deliver fire and shadow damage with their spells, and they’re able to hurt others both instantly and with ongoing afflictions.
+        Summoning
+            Warlocks are adept at summoning their allies to their presence, whether said allies are other heroes or bloodthirsty demons.
+        Pets
+            Warlocks bind demons to their will; these infernal denizens defend their masters with their lives or rain death upon their enemies.
+        Demonic Resources
+            Warlocks make use of soul shards to empower their own spells, making them swifter or more deadly.
+    
+    Combat Roles
+        Damage
+
+    Armor Type
+        Cloth
+
+    Available Weapons
+        Daggers
+        One-Handed Swords
+        Staves
+        Wands
+
 Warrior
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/warrior
+
+    Description
+        For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.
+
+    Features
+        Tank
+            Mighty warriors depend on their heavy armor, shields, and battle prowess to defend themselves and ensure enemies don’t focus on their softer-skinned allies.
+        Melee Damage
+            Weapon mastery is a staple of warrior training, and they are capable of delivering high damage with enormous two-handed weapons or by wielding two weapons.
+        Rage
+            As warriors deal or take damage, their rage grows, allowing them to deliver truly crushing attacks in the heat of battle.
+
+    Combat Roles
+        Tank
+        Damage
+
+    Armor Type
+        Plate
+        Shields
+
+    Available Weapons
+        Daggers
+        Fist Weapons
+        Axes
+        Maces
+        Swords
+        Polearms
+        Staves
+
 Demon Hunter
+    IRI
+        https://worldofwarcraft.com/en-us/game/classes/demon-hunter
+
+    Description
+        Demon hunters embrace the forbidden powers of the Legion. They make use of fel and chaotic magics, metamorphosis abilities, spectral sight, and hellish agility to hunt down and defeat even the most dangerous adversaries.
+
+    Features
+        Tank
+            The chaotic energy that flows within Demon Hunters gifts them with unparalleled durability.
+        Melee Damage
+            Demon Hunters can double jump, vault in and out of combat, and unfold their monstrous wings, surprising enemies from above with devastating attacks.
+        Metamorphosis
+            Demon Hunters transform into hellish forms, enhancing their chosen role: damage-focused Illidari can teleport into combat, while those who prize defense can grant powerful supportive Auras.
+        Spectral Sight
+            The Demon Hunters’ apparent blindness belies their true powers of perception. They rely on magically augmented sight to detect enemies, even those that hide behind obstacles.
+
+    Combat Roles
+        Tank
+        Damage
+
+    Armor Type
+        Leather
+
+    Available Weapons
+        Warglaives
+        Daggers
+        Fist Weapons
+        One-Handed Axes
+        One-Handed Swords
+        
 
 Races:
 PlayableRace
@@ -617,7 +968,7 @@ Goblin
 
     Racial Mount
         Trike
-        
+
 
     Available Classes
         Death Knight
